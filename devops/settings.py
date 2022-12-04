@@ -26,7 +26,7 @@ SECRET_KEY = '5m8k39#m-rt^7sutksei6em@l(gega)f-0v29+vc)4gi$bl13g'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'x21229139python.azurewebsites.net'
+    'https://devops-prod-pathways.azurewebsites.net'
 ]
 
 
